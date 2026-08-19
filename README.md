@@ -8,3 +8,7 @@ This is a course in data science
 # Movies
 1. Titanes del pacífico
 2. Parasite
+
+# Countries
+1. Peru 
+2. Colombia
