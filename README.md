@@ -12,3 +12,5 @@ This is a course in data science
 # Countries
 1. Peru 
 2. Colombia
+3. Argentina
+4. Brasil
